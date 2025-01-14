@@ -2,4 +2,4 @@
 This is a demo for Git &amp; Github class.
 
 # Student
-Tushar Tayal
+Tushar Tayal(Panipat)
